@@ -97,3 +97,4 @@ Trip will take 2 hours by raft.
 End at 10AM
 1 spell focus remaining
 END OF SESSION 2
+

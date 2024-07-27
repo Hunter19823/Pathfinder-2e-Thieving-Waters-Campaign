@@ -1,0 +1,1 @@
+The [[Aepiero Isles]] is a vast world made primarily of oceans and seas, scattered with countless archipelagos, isles, and islands. This seafaring domain is ripe with swashbuckling adventures, piracy, treasure hunting, and the mysteries of the deep.

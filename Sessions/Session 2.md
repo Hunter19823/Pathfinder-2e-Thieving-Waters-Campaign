@@ -34,6 +34,6 @@
 
 ## Status
 - **Time:** 10 AM
-- **Spell Focus:** 1 remaining
+- **Spell Focus:** 0 remaining
 
 ## END OF SESSION 2

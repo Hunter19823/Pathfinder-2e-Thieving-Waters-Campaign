@@ -1,1 +1,5 @@
-The continent we are on.
+- **Capital**: Humble
+- **Government**: Kingdom
+- **Culture**: Known for its rustic villages and a once-thriving trade network.
+- **Economy**: Severely impacted by the isolation caused by the rainforest.
+- **Notable Locations**: Humble, Port Terrehn, The Pomonan Rainforest.

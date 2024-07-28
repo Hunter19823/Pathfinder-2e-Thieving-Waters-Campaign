@@ -4,72 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "8903456e4df716d5",
+        "id": "eef124c0f9a6a5af",
         "type": "tabs",
         "children": [
           {
-            "id": "cc4c6a38efcc06f2",
+            "id": "69a1677ebc23ab42",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Lake Superior.md",
+                "file": "Notes/Adventure Notebook.md",
                 "mode": "source",
                 "source": false
-              }
-            },
-            "group": "af45c04682501b40"
-          },
-          {
-            "id": "fc0d87157c165e2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Aepiero Isles.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "78d0f04ba9881f98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Characters/Echo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02d10f8a3e7eac2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wavesong Intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db26865fd193059a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Characters/Azami.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "802a86ee54758005",
+            "id": "bf8d26005a7c390d",
             "type": "leaf",
             "state": {
               "type": "image",
@@ -77,23 +30,16 @@
                 "file": "Images/job_offer_in_a_bottle.png"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "84dc0a90f126348f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "bdacc01541ffa8f8",
+            "id": "9435641942af9d6e",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "image",
               "state": {
-                "file": "Lore/Lake Superior.md"
+                "file": "Images/job_offer_in_a_bottle.png"
               }
-            },
-            "group": "af45c04682501b40"
+            }
           }
         ]
       }
@@ -156,35 +102,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3bc1a1708bf790e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Lore/Lake Superior.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "242e234ff886b58e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Lore/Lake Superior.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "a26b6017049d26e8",
             "type": "leaf",
             "state": {
@@ -196,29 +113,22 @@
             }
           },
           {
-            "id": "edcdd9a013258832",
+            "id": "6ba5034cf44964f4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Lake Superior.md"
+                "file": "Notes/Adventure Notebook.md"
               }
-            }
-          },
-          {
-            "id": "8eba3b9ed8510582",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,37 +141,37 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "cc4c6a38efcc06f2",
+  "active": "69a1677ebc23ab42",
   "lastOpenFiles": [
-    "Lore/Misc.md",
-    "Lore/Lake Superior.md",
-    "Lore/Shilonia.md",
+    "Images/job_offer_in_a_bottle.png",
+    "Notes/Adventure Notebook.md",
     "World/Midlandia/Pelican Bay.md",
-    "Lore/Pelican Bay.md",
+    "Campaign Characters/Echo.md",
+    "Sessions/Session 2.md",
+    "Sessions/Session 1.md",
+    "World/World.md",
+    "Campaign Characters/Wavesong.md",
+    "Campaign Characters/Faro.md",
+    "Campaign Characters/Azami.md",
+    "Lore/Wavesong Intro.md",
     "World/Midlandia/Midlandia.md",
+    "World/Midlandia/Vedmare.md",
+    "Lore/Lake Superior.md",
+    "Lore/Misc.md",
+    "Lore/Shilonia.md",
+    "Lore/Pelican Bay.md",
     "Lore/Captain Kid.md",
     "Ruleset.md",
-    "World/World.md",
     "World/Aepiero Isles.md",
     "Campaign Overview.md",
     "template/Town.md",
-    "Notes/Adventure Notebook.md",
     "template/World.md",
-    "Sessions/Session 2.md",
     "template/Character.md",
     "template/Factions.md",
     "template/Quest.md",
-    "template/Session.md",
-    "Sessions/Session 1.md",
-    "Factions/Infury People.md",
     "Sessions",
     "Quests",
     "Factions",
-    "World/Midlandia/Sithe O Thir.md",
-    "Lore/Kingdom of Humble.md",
-    "Campaign Characters/Faro.md",
-    "Campaign Characters/Echo.md",
-    "Campaign Characters/Azami.md",
     "Images/world_map_drawing.png",
     "template",
     "World",
@@ -273,7 +183,6 @@
     "Campaign Characters",
     "images/image6.png",
     "Images/wavesong_intro.png",
-    "Images/job_offer_in_a_bottle.png",
     "Images/echo.png",
     "Images/wavesong.png",
     "images/image2.png",

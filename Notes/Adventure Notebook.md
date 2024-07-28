@@ -96,5 +96,52 @@ Trip will take 2 hours by raft.
 
 End at 10AM
 1 spell focus remaining
-END OF SESSION 2
+## END OF SESSION 2
+
+# START OF SESSION 3 (7/27/24)
+
+We are on the raft.
+We were able to successfully get the raft to the other side. 
+Tied the raft down to the dock.
+Island surrounded by boat-shredding geography.
+
+Time: 12 PM (Noon)
+
+We have now reached [[Comvas Lighthouse]].
+Home to our pearly treasure.
+Looking around, the door is boarded up with "Condemned" painted on.
+Has a storm cellar with a putrid smell. Covered in vines of a vine lasher.
+I wrote, "Not", above the "Condemned",
+Echo tears off the wood.
+
+The lighthouse is old, dusty, untouched living room furniture.
+Has rusted dwarven antiques in the room west to the kitchen.
+Rusted anchor in the room to the east, next to piles of yeast-infected shit.
+
+I put a shield sconce on my shield.
+I put a torch on my shield sconce. (8 hours)
+We go up the lighthouse stairs.
+After stepping in the room, the front door closes.
+After we get to the half-way point:
+- Top door closes.
+- Faro tells us, "Don't go in there."
+- Bottom door to stairs closes.
+- Waterford shoots a blast of water at the door, filling the basement with water slightly.
+
+Echo tries to steal coat, it gets shoved back into closet.
+
+We go up stairs.
+Echo opens the door.
+
+Time: 1 PM (Noon)
+
+Faro stands before us with a trident wearing pirate outfit.
+
+Azami starts things off by dancing.
+Wavesong sends a toy carriage as a distraction and fails.
+Wavesong assists Azami in the dance.
+Echo tries to ask questions but is unable.
+Azami continues to perform.
+Wavesong finally removes all of Faro's dredge by offering to play a game of cards.
+## END OF SESSION 3
 

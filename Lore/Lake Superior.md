@@ -3,9 +3,9 @@
 # Official Lore
 [[Lake Superior]] is the result of the kingdom of Humble trying to build a damn to maintain control over the Humble Brague a couple of hundred years ago.
 
-The damn proved unsuccessful and created a second river that flooded the lower elevation areas of Midlandia.
+The damn proved unsuccessful and created a second river that flooded the lower elevation areas of [[Midlandia]].
 
-Lake Superior was the name that King Geoffrey Humble IV gave to the Lake.
+[[Lake Superior]] was the name that King Geoffrey Humble IV gave to the Lake.
 
 The Lake has been maintained by the Kingdom of Humble to remind themselves that nature is always superior to man-made structures and therefore is to be preserved, though many rulers of the kingdom have attempted to claim the lake, nature always reminds them to stay humble in the end.
 

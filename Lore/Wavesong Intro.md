@@ -1,9 +1,9 @@
 ![[wavesong_intro.png]]
 # WAVESONG'S INTRO
 
-The Aepiero Isles is a large world mostly made up of oceans and seas that stretch for miles.
+The [[Aepiero Isles]] is a large world mostly made up of oceans and seas that stretch for miles.
 
-The Aepiero Isles are littered with archipelagoes, isles, and islands of all shapes and sizes, Hence the name.
+The [[Aepiero Isles]] are littered with archipelagoes, isles, and islands of all shapes and sizes, Hence the name.
 
 Swashbucklery, Thievery, Adventure, and Treasure await those who travel the seas and many inhabitants of The Isles seek the high life of the seas. However, most lack the drive or guts to rise in the ranks amongst the pirates of the Isles.
 

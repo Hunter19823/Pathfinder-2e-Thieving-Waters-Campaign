@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Notebook.md"
+                "file": "Images/job_offer_in_a_bottle.png"
               }
             }
           }
@@ -141,10 +142,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "69a1677ebc23ab42",
+  "active": "9435641942af9d6e",
   "lastOpenFiles": [
-    "Images/job_offer_in_a_bottle.png",
+    "HTML import/CampaignNotebook.md",
     "Notes/Adventure Notebook.md",
+    "Images/job_offer_in_a_bottle.png",
     "World/Midlandia/Pelican Bay.md",
     "Campaign Characters/Echo.md",
     "Sessions/Session 2.md",

@@ -19,30 +19,10 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "bf8d26005a7c390d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/job_offer_in_a_bottle.png"
-              }
-            }
-          },
-          {
-            "id": "9435641942af9d6e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/job_offer_in_a_bottle.png"
-              }
-            }
+            },
+            "group": "1aa991f785121b5f"
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,17 +99,58 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/job_offer_in_a_bottle.png"
+                "file": "Notes/Adventure Notebook.md"
               }
             }
+          },
+          {
+            "id": "d78ae6a44d74323e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Adventure Notebook.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ca3f60f90941816",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Adventure Notebook.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd3c7e417a7a78f3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Adventure Notebook.md"
+              },
+              "pinned": true
+            },
+            "group": "1aa991f785121b5f"
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,19 +163,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9435641942af9d6e",
+  "active": "bd3c7e417a7a78f3",
   "lastOpenFiles": [
-    "HTML import/CampaignNotebook.md",
+    "Campaign Characters/Wavesong.md",
     "Notes/Adventure Notebook.md",
     "Images/job_offer_in_a_bottle.png",
-    "World/Midlandia/Pelican Bay.md",
     "Campaign Characters/Echo.md",
+    "Campaign Characters/Faro.md",
+    "Campaign Characters/Azami.md",
+    "Factions/Infury People.md",
+    "HTML import/CampaignNotebook.md",
+    "World/Midlandia/Pelican Bay.md",
     "Sessions/Session 2.md",
     "Sessions/Session 1.md",
     "World/World.md",
-    "Campaign Characters/Wavesong.md",
-    "Campaign Characters/Faro.md",
-    "Campaign Characters/Azami.md",
     "Lore/Wavesong Intro.md",
     "World/Midlandia/Midlandia.md",
     "World/Midlandia/Vedmare.md",
@@ -169,8 +191,6 @@
     "template/Town.md",
     "template/World.md",
     "template/Character.md",
-    "template/Factions.md",
-    "template/Quest.md",
     "Sessions",
     "Quests",
     "Factions",

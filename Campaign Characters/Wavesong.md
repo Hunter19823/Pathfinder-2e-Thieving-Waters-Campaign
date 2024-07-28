@@ -1,3 +1,8 @@
+---
+tags:
+  - Waterford
+  - Wavesong_Waterford
+---
 ![[wavesong.png|left lp|350]]
 
 # [[Wavesong Waterford|Wavesong Waterford]]: (Sprite)

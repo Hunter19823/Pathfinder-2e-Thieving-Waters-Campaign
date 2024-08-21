@@ -1,3 +1,4 @@
+![[faro.png|left lp|350]]
 # [[Faro]]
 
 ## Basic Information

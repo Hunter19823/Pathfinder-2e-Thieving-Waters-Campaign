@@ -36,8 +36,8 @@ Muffled shouting behind the kitchen.
 Orc bartender.
 [[Echo]] comes out of the kitchen balancing the trays.
 Goblin throwing slurs at [[Echo]].
-[[Wavesong]] curiously took notes on the kinds of slurs the goblin used.
-[[Wavesong]] hired [[Echo]] for only 20 Gold.
+[[Campaign Characters/Wavesong]] curiously took notes on the kinds of slurs the goblin used.
+[[Campaign Characters/Wavesong]] hired [[Echo]] for only 20 Gold.
 
 ## To the rainforest
 Set off from Scribe Ben through the rainforest.
@@ -115,7 +115,7 @@ We have now reached [[Comvas Lighthouse]]. (Home to our pearly treasure).
 
 Looking around, the door is boarded up with "Condemned" painted on.
 Has a storm cellar with a putrid smell. Covered in vines of a vine-lasher.
-[[Wavesong]] wrote, "Not", above the "Condemned",
+[[Campaign Characters/Wavesong]] wrote, "Not", above the "Condemned",
 [[Echo]] tears off the wood with a crowbar.
 
 ## Inside the Comvas Lighthouse
@@ -127,7 +127,7 @@ There is a kitchen connected to the living room.
 Upon trying to walk in, a ton of plates and cutlery are thrown to the floor.
 Has rusted dwarven antiques in the room west to the kitchen.
 Rusted anchor in the room to the east, next to piles of droppings.
-[[Wavesong]] inspected the droppings and determined a yeast-infected rodent dropped it.
+[[Campaign Characters/Wavesong]] inspected the droppings and determined a yeast-infected rodent dropped it.
 
 I put a shield sconce on my shield.
 I put a torch on my shield sconce. (8 hours)
@@ -139,7 +139,7 @@ After we get to the half-way point:
 - Top door closes.
 - [[Faro]] tells us, "Don't go in there."
 - Bottom door to stairs closes.
-- [[Wavesong|Waterford]] shoots a blast of water at the door, filling the basement with water slightly.
+- [[Campaign Characters/Wavesong|Waterford]] shoots a blast of water at the door, filling the basement with water slightly.
 
 [[Echo]] tries to steal coat, it gets shoved back into closet.
 
@@ -148,20 +148,78 @@ We go up stairs.
 [[Echo]] opens the door.
 
 Time: 1 PM (Noon)
-## Encountering Faro
+## Encountering [[Faro]]
 [[Faro]] stands before us with a trident wearing pirate outfit.
 
 [[Azami]] starts things off by dancing.
-[[Wavesong]] sends a toy carriage as a distraction and fails.
-[[Wavesong]] assists [[Azami]] in the dance.
+[[Campaign Characters/Wavesong]] sends a toy carriage as a distraction and fails.
+[[Campaign Characters/Wavesong]] assists [[Azami]] in the dance.
 [[Echo]] tries to ask questions but is unable.
 [[Azami]] continues to perform.
-[[Wavesong]] finally removes all of Faro's dredge by offering to play a game of cards.
+[[Campaign Characters/Wavesong]] finally removes all of Faro's dredge by offering to play a game of cards.
 
+![[faro_encounter.png|left rl|500x650]]
 +30 encounter XP
 
 [[Faro]] has joined party.
 
 Campfire conversation starts.
+(Short rest, Party Full Restore)
 ## END OF SESSION 3
 
+# START OF SESSION 4 (8/10/24)
+
+Time: 6PM (Nighttime)
+
+We tried to bring [[Faro]] to the ghostly perimeter but he was unable to come with us.
+
+We approach the cellar door with the vine lasher vines on it.
+[[Azami]] noted that those vine lashers can see using ground-based echolocation called Tremor Sense.
+
+[[Campaign Characters/Wavesong]] starts the fight by throwing a lit oil flask at the entrance of the lighthouse which ignites three vine lashers as they emerge from the lighthouse.
+
+We kicked those Vinelasher's asses.
+
+We go inside the sellar.
+
+We investigate the barrels, and there were rats that attacked us.
+We all got bit once.
+I killed them, then heal everyone with my heal spell.
+
+There is a chest that has a hex on it, that we disarmed by unlocking a raft using the key under an anchor near three barrels.
+Inside the chest was a statuette of the lighthouse, that we fit into a socket on the wall.
+
+This opens up the room, there is a seven pointed glyph in the center that is glowing purple.
+[[Wavesong]] detects that there are hexes at play.
+There is an altar on one side of the room.
+There is a bookshelf in the north east corner of the room.
+
+The open scroll case houses a ritual scroll titled "Release Ritual" a ritual that releases a binding ritual hex.
+
+> To activate the release ritual, recreate the Glyph components of the hex you wish to release. Place this scroll in the middle of the glyph and set fire to the scroll. 
+> If done successfully, the scroll will produce no ash.
+
+A large brazier with a blue flame.
+
+The bookshelf farthest south features historical almanacs from 4600 ~ 4615 (Current year is 4724), 3 books titled "Tomes of the seas" Parts 3 (The Leviathan), 7 (The Hydra), and 9 (The Kraken) and a collection of 4600 Encyclopedias.
+
+>[[Wavesong]] will know that almanacs come out every 5 years.
+
+Encyclopedias come out once a century, these are considered relics of ancient information.
+
+> there is a small white feather bookmarking the fishing section in the year 4611.
+
+The bookshelf to the right of the brazier features a multiple copies of diaries (The Diary of a Lighthouse Keeper's Keeper) 
+These have been printed out, possibly for redistribution. 
+There are personalized scroll cases in a cast iron scroll rack, which all appear to be locked except 2, which are empty and one that has been left open.
+
+> The open scroll case houses a ritual scroll titled "Release Ritual" a ritual that releases a binding ritual hex. 
+> To activate the release ritual, recreate the Glyph components of the hex you wish to release. Place this scroll in the middle of the glyph and set fire to the scroll. 
+> If done successfully, the scroll will produce no ash.
+
+The bookshelf in the north east corner holds multiple photo albums, _"The Herbal Alchemists's handbook"_ , _"Herbarium: A Botanical sourcebook"_, _"Botanicals, Curses, and Poisons"_ , _"Dark Rituals"_ , _"Fairycraft, Magicka, and Trickscraft"_, _"The Joy of Hexes"_, _"Jinx and other Cantrips"_, and _"The Grimoire of Undine"_.
+
+We found three snakes under the brazier.
+They nearly party wiped us.
+Only Wavesong and Faro survived the encounter.
+We Stabilize 

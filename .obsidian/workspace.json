@@ -10,17 +10,27 @@
           {
             "id": "69a1677ebc23ab42",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/Adventure Notebook.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             },
             "group": "1aa991f785121b5f"
+          },
+          {
+            "id": "6c128b97e3aa9779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wavesong Shopping List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -135,18 +145,16 @@
           {
             "id": "bd3c7e417a7a78f3",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "outline",
               "state": {
                 "file": "Notes/Adventure Notebook.md"
-              },
-              "pinned": true
+              }
             },
             "group": "1aa991f785121b5f"
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -163,14 +171,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "bd3c7e417a7a78f3",
+  "active": "69a1677ebc23ab42",
   "lastOpenFiles": [
-    "Campaign Characters/Wavesong.md",
+    "Ruleset.md",
     "Notes/Adventure Notebook.md",
+    "Wavesong Shopping List.md",
     "Images/job_offer_in_a_bottle.png",
-    "Campaign Characters/Echo.md",
     "Campaign Characters/Faro.md",
+    "Campaign Characters/Wavesong.md",
+    "Images/faro.png",
+    "Campaign Characters/Echo.md",
     "Campaign Characters/Azami.md",
+    "Images/faro_encounter.png",
     "Factions/Infury People.md",
     "HTML import/CampaignNotebook.md",
     "World/Midlandia/Pelican Bay.md",
@@ -185,7 +197,6 @@
     "Lore/Shilonia.md",
     "Lore/Pelican Bay.md",
     "Lore/Captain Kid.md",
-    "Ruleset.md",
     "World/Aepiero Isles.md",
     "Campaign Overview.md",
     "template/Town.md",
@@ -207,8 +218,6 @@
     "Images/wavesong_intro.png",
     "Images/echo.png",
     "Images/wavesong.png",
-    "images/image2.png",
-    "images/image1.png",
-    "images/image5.png"
+    "images/image2.png"
   ]
 }

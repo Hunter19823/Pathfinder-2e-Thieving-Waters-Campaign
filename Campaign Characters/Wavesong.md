@@ -15,7 +15,7 @@ tags:
 
 ## Appearance
 - **Description:**
-  - [[Wavesong]] is a sprite with a strong connection to nature and the mystical realms. They exude an aura of calm and wisdom beyond their years.
+  - [[Campaign Characters/Wavesong]] is a sprite with a strong connection to nature and the mystical realms. They exude an aura of calm and wisdom beyond their years.
 
 ## Personality
 - **Traits:**
@@ -29,8 +29,8 @@ tags:
   
 ## Background
 - **Background Story:**
-  - [[Wavesong]] spends most of their time secluded in a cave deep underwater, hidden in a lake. This self-imposed isolation allows them to study different medicines and natural phenomena.
-  - [[Wavesong]]’s attachment to the lake comes from their parents, who entrusted them with the lake’s upkeep from a young age. The lake represents both a home and a sanctuary for [[Wavesong]].
+  - [[Campaign Characters/Wavesong]] spends most of their time secluded in a cave deep underwater, hidden in a lake. This self-imposed isolation allows them to study different medicines and natural phenomena.
+  - [[Campaign Characters/Wavesong]]’s attachment to the lake comes from their parents, who entrusted them with the lake’s upkeep from a young age. The lake represents both a home and a sanctuary for [[Campaign Characters/Wavesong]].
   - Occasionally, Wavesong takes jobs on the surface that align with their interests but prefers to remain in studies.
 
 ## Abilities
@@ -51,4 +51,4 @@ tags:
   - Interacted with [[Echo]] at a tavern needing help to investigate the lighthouse.
   
 ## Notes
-- [[Wavesong]] is motivated by a desire to learn new healing techniques and help others, driven by curiosity and a deep-seated responsibility to their home.
+- [[Campaign Characters/Wavesong]] is motivated by a desire to learn new healing techniques and help others, driven by curiosity and a deep-seated responsibility to their home.

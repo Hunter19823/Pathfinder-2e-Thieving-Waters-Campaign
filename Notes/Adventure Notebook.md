@@ -222,4 +222,93 @@ The bookshelf in the north east corner holds multiple photo albums, _"The Herbal
 We found three snakes under the brazier.
 They nearly party wiped us.
 Only Wavesong and Faro survived the encounter.
-We Stabilize 
+We Stabilize Azami and Echo.
+### END OF SESSION 4
+
+## Reading during the night:
+During the downtime Wavesong skims the books in the room.
+
+### The Herbal Alchemist's handbook 
+This is a Reference book teaching the different uses of Herbs in Alchemy. Anyone who has this book equiped while making a medicine check gets a +2 to that Medicine check. 
+### Herbarium
+A Botanical sourcebook: A sourcebook detailing different Botanical components and their many uses. +2 to nature checks to a reader that has committed 2 hours to reading.
+
+### Botanicals, Curses, and Poisons 
+This chart is committed to memory and may be referenced without the need to Recall Knowledge.
+![[chart_of_spices.png|left|500x500]]
+### Dark Rituals 
+A diagram of star symbolism is found about 20 pages in. 
+For now, The important bits of information Wavesong notices is 
+
+Hexagram - Takes 2 triangles and overlaps them to make a star. 
+The initial Triangle is used to summon a spirit while the second is to bind the spirit with the component of the hex. 
+
+Many Magicians use Hexagrams as a beginner's spell to bind a deceased loved one to their home. 
+
+Candles with varied intentions are to be placed at all 6 points of the Hexagram while keeping memory and intention in mind. The candles are to be lit and then snuffed once all 6 candles are burned till their wick is blackened. 
+
+Magic Triangles -  used as landing spots for summoning demons and angels alike. 
+It is wise for magic users to place Triangles outside of their protection circles so the demon or angel may have freedom to enter or leave the triangle without disturbing the peace and safety of the magician. 
+
+Heptagrams - Heptagrams are used to represent Harmony and connection between the natural world and our spiritual self. 
+
+There are seven Los Oratos each with a different domain of nature: 
+Apollo - Life 
+Pluto - Death
+Neptune - Water 
+Vulcan - Fire 
+Minerva - Humanity 
+Mars - War
+Chronos - Time 
+
+Thus, the days of the week are named upon those facets of nature: 
+Apolsday
+Marsday
+Neptusday
+Chronsday
+Vulcasday
+Minervasday
+Plutosday
+
+Many followers of Los Oratos consider themselves to have a deeper connection with the worlds beyond their plane. 
+
+A Hex using a Heptagram is generally used to bend nature.
+![[ancient_star_symbols.png|left|500x500]]
+
+### Fairycraft, Magicka, and Trickscraft:
+This book is written in Sylvan. It lays out the laws of Faecraft and the expectations of Fairies, Sprites, Elementals, and other creatures of the Fae lands. There are agreed upon rules in illusion magic regarding the limits of manipulating nature that all fae creatures must adopt to retain the structure and integrity of the land. This piece of literature is typically used as a study source material for beings who were not born in Fae society.
+
+### The Joy of Hexes 
+A book that acknowledges the negative connotation of Hex magic, but attempts to expose the reader to the more practical uses of hexes in the home. There are hexes about Healing, Protection, Abundance, Harmony, etc. 
+
+There is a bookmark on page 173. 
+
+Page 173 Contains an illusory hex to make your home appear to have no doorway. 
+The hex requests a glyph to be painted on the ground before the entrance and for every point of the glyph a candle is to be placed. 
+Between each candle a container of the caster's element of choice is to be placed. 
+The caster is to sit in the middle of the Glyph donning a focus of corresponding element, channeling their magicka through the focus. 
+The candles will briefly light simultaneously and the illusion will appear. 
+This hex is not easily broken without a "Release Ritual" scroll handy, where the scroll may replace the caster in placement.
+
+### Jinx and other Cantrips 
+A Spellbook used for teaching young elementals simple cantrips and spells that are mostly harmless and useless outside of practice. Such Cantrips include [[Approximate]], [[Deep Breath]], [[Draw Moisture]], [[Eat Fire]], [[Figment]], [[Illuminate]], [[Light]], and [[Prestidigitation]]. With this book handy, anyone could learn 1 of these cantrips with about 8 hours of practice. To learn a second cantrip from this book, the reader must forget the first cantrip and spend another 8 hours practicing the new cantrip.
+
+### The Grimoire of Undine 
+A very old and tattered grimoire. The title is in Common, but the text on the inside is all in Aquan.
+
+# START OF SESSION 5 (8/24/24)
+
+Session starts at 7 AM where we review the reading over the night. 
+
+We solve the illusionary hex in the room.
+This allowed water to rush in and open access to a cave.
+Azami took the magic blue focus next to his ritual hex.
+The ritual that restricted Faro to the lighthouse was washed away / disturbed.
+We went down to the docks, Wavesong noticed more sea snakes below the docks.
+We prepared the boat in the middle of the room.
+Azami attempted to go down to the docks unnoticed, but angered the sea snakes.
+
+We killed both sea snakes with only Faro getting bitten once.
+
+We noticed a cracked snail shell on the dock.
+Faro now has a ghost snail on his shoulder named Garry.

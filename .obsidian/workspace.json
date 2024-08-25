@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "09270a4bdb7c98ae",
@@ -173,6 +174,8 @@
   },
   "active": "69a1677ebc23ab42",
   "lastOpenFiles": [
+    "Images/ancient_star_symbols.png",
+    "Images/chart_of_spices.png",
     "Ruleset.md",
     "Notes/Adventure Notebook.md",
     "Wavesong Shopping List.md",
@@ -201,7 +204,6 @@
     "Campaign Overview.md",
     "template/Town.md",
     "template/World.md",
-    "template/Character.md",
     "Sessions",
     "Quests",
     "Factions",
@@ -217,7 +219,6 @@
     "images/image6.png",
     "Images/wavesong_intro.png",
     "Images/echo.png",
-    "Images/wavesong.png",
-    "images/image2.png"
+    "Images/wavesong.png"
   ]
 }

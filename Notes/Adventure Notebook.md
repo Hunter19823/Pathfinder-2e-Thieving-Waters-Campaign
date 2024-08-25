@@ -221,12 +221,12 @@ The bookshelf in the north east corner holds multiple photo albums, _"The Herbal
 
 We found three snakes under the brazier.
 They nearly party wiped us.
-Only Wavesong and Faro survived the encounter.
-We Stabilize Azami and Echo.
+Only [[Wavesong]] and [[Faro]] survived the encounter.
+We Stabilize [[Azami]] and [[Echo]].
 ### END OF SESSION 4
 
 ## Reading during the night:
-During the downtime Wavesong skims the books in the room.
+During the downtime [[Wavesong]] skims the books in the room.
 
 ### The Herbal Alchemist's handbook 
 This is a Reference book teaching the different uses of Herbs in Alchemy. Anyone who has this book equiped while making a medicine check gets a +2 to that Medicine check. 
@@ -301,14 +301,21 @@ A very old and tattered grimoire. The title is in Common, but the text on the in
 Session starts at 7 AM where we review the reading over the night. 
 
 We solve the illusionary hex in the room.
-This allowed water to rush in and open access to a cave.
-Azami took the magic blue focus next to his ritual hex.
-The ritual that restricted Faro to the lighthouse was washed away / disturbed.
-We went down to the docks, Wavesong noticed more sea snakes below the docks.
-We prepared the boat in the middle of the room.
-Azami attempted to go down to the docks unnoticed, but angered the sea snakes.
 
-We killed both sea snakes with only Faro getting bitten once.
+This allowed water to rush in and open access to a cave.
+
+[[Azami]] took the magic blue focus next to his ritual hex.
+The ritual that restricted [[Faro]] to the lighthouse was washed away / disturbed. (We think)
+
+We went down to the docks, [[Wavesong]] noticed more sea snakes below the docks.
+We prepared the boat in the middle of the room.
+[[Azami]] attempted to go down to the docks unnoticed, but angered the sea snakes.
+
+We killed both sea snakes with only [[Faro]] getting bitten once.
 
 We noticed a cracked snail shell on the dock.
-Faro now has a ghost snail on his shoulder named Garry.
+[[Faro]] rushes over to hug the snail shell and hugs him. It's his old pet snail Garry.
+[[Faro]] now has a ghost snail on his shoulder named Garry. (Purely cosmetic)
+
+## End of Session 5
+

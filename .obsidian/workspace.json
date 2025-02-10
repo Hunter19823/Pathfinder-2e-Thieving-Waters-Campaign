@@ -4,29 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "eef124c0f9a6a5af",
+        "id": "4af1db98f57d9f1c",
         "type": "tabs",
         "children": [
           {
-            "id": "69a1677ebc23ab42",
+            "id": "ff42a698a61e8939",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/Adventure Notebook.md",
                 "mode": "source",
                 "source": false
-              }
-            },
-            "group": "1aa991f785121b5f"
+              },
+              "pinned": true
+            }
           },
           {
-            "id": "6c128b97e3aa9779",
+            "id": "6ebd50a896bc4f3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wavesong Shopping List.md",
+                "file": "Ruleset.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "09270a4bdb7c98ae",
@@ -151,15 +151,15 @@
               "state": {
                 "file": "Notes/Adventure Notebook.md"
               }
-            },
-            "group": "1aa991f785121b5f"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,13 +172,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "69a1677ebc23ab42",
+  "active": "ff42a698a61e8939",
   "lastOpenFiles": [
-    "Images/ancient_star_symbols.png",
-    "Images/chart_of_spices.png",
+    "Pasted image 20250209202515.png",
     "Ruleset.md",
     "Notes/Adventure Notebook.md",
+    "Frem.md",
+    "BoatControls.png",
+    "Pasted image 20241005165411.png",
     "Wavesong Shopping List.md",
+    "Images/ancient_star_symbols.png",
+    "Images/chart_of_spices.png",
     "Images/job_offer_in_a_bottle.png",
     "Campaign Characters/Faro.md",
     "Campaign Characters/Wavesong.md",
@@ -203,7 +207,6 @@
     "World/Aepiero Isles.md",
     "Campaign Overview.md",
     "template/Town.md",
-    "template/World.md",
     "Sessions",
     "Quests",
     "Factions",
@@ -216,9 +219,6 @@
     "Lore",
     "World/Midlandia",
     "Campaign Characters",
-    "images/image6.png",
-    "Images/wavesong_intro.png",
-    "Images/echo.png",
-    "Images/wavesong.png"
+    "images/image6.png"
   ]
 }

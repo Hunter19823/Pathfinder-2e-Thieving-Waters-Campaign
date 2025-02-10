@@ -319,3 +319,107 @@ We noticed a cracked snail shell on the dock.
 
 ## End of Session 5
 
+# START OF SESSION 6 (10/5/2024)
+
+We are on the boat, there are three paths.
+Still water, no wind. We must paddle to move in the water.
+There are two levers.
+
+We pull the right lever and it feels like there is no resistant.
+We pull the left lever and it feels like there is no resistant.
+We try different combos to no success.
+
+Further down in the cave we hear something that sounds like somebody being kidnapped.
+
+Upon sailing down the left path, Echo perceives a massive thing swimming below us.
+
+Echo told us they saw something below us.
+
+We come across a fork in the water.
+
+We go to the right.
+
+We found a cliff with a massive basket of bread on a cliff.
+
+Echo gave me their rope, and I tied it to myself and flew up a cliff.
+
+There is a lite fire, a rocking chair, and some stale and moldy bread.
+
+The bread basket is bucket sized. It feels as though a baker lives in these caves.
+
+We hear welching further into the cave.
+
+[[WaveSong]] gets back on the boat, and we continue down the cave.
+
+As we come close to the dock, we start to smell large amounts of yeast and shit.
+
+We hear something yelling at us.
+We tie off the boat at the dock.
+
+Before us, stands a large glob of bread dough. It has a large amount of ooze.
+Inside a Goblin.
+## Goblin Break Man ([[Fremikin Frem]])
+Green Skin
+Large Floppy Skin
+Missing some teeth.
+Bad Comb Over.
+Very scruffy
+Chipped ear.
+Big beer gut.
+Blue Robe.
+Blue Pants.
+[[Fremikin Frem]].
+
+The [[Fremikin Frem|Frem]] is asking us to get him out.
+
+The [[Fremikin Frem|Frem]] is in a large blob of Ooze.
+The Ooze is resistant to piercing and slashing damage, but vulnerable to bludgeoning where it takes a bonus 5 damage.
+
+We kill the first ooze before it gets a turn.
+The second ooze approaches us.
+
+Echo and [[WaveSong]] know of Isla De Monstera, (located at the end of Port of Dandistra). last place before Alkatraz, before deathrow).
+
+[[WaveSong]] recalled that most Goblins are great at fixing mechanics.
+
++120 xp from Oozes
++470 xp from [[Fremikin Frem|Frem]]
+
+Level Up (Level 2) after encounter.
+
+Hag comes into room. ([[Nanna Nutbread]]).
+(Unbeknownst to our characters, [[Fremikin Frem|Frem]] stole the Object of interest and escaped without us noticing).
+Our group ain't looking too hot in battle.
+We managed to talk her down. 
+[[Fremikin Frem|Frem]] person is no where to be seen. 
+[[Nanna Nutbread]] knows [[Farro]]'s Mom.
+
+The Hag locks us in the closet with her experimental yeast ooze.
+## End of Session 6
+# START OF SESSION 7 (2/9/2025)
+
+The pantry is lined with various ingredients of different types.
+
+Middle of the room is a Yeast-ooze. 
+Down the tunnel is a bigger yeast ooze. 
+The tunnel leads out into the ocean.
+
+Initiative Starts, battle with the ooze begins.
+We beat the absolute shit out of the Oozes.
+
+We find a bag of salt in the pantry, throw it into the water.
+The water starts getting cloudy and a swarm of leaches float to the surface.
+A stream of bubbles start as a brood leach appears out of the water.
+We kill the leach. 
+We break open the wall and it flushes into a wide open cave.
+There is a water wheel mixing the water.
+Faro and Azami are now in the water trying to escape the water.
+
+They manage to escape the water but are being chased by a Water Dragon.
+
+Faro grabs a second Nana's Nut Bread as he tries to escape.
+
+We narrowly manage to escape to the boat and escape the Water Dragon.
+
+Level Up to Level 3!
+## End of Session 7

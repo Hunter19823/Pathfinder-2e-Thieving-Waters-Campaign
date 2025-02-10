@@ -27,13 +27,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruleset.md",
+                "file": "Wavesong Shopping List.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Notebook.md"
+                "file": "Wavesong Shopping List.md"
               }
             }
           },
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Adventure Notebook.md",
+                "file": "Wavesong Shopping List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Adventure Notebook.md",
+                "file": "Wavesong Shopping List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Adventure Notebook.md"
+                "file": "Wavesong Shopping List.md"
               }
             }
           }
@@ -172,12 +173,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ff42a698a61e8939",
+  "active": "6ebd50a896bc4f3c",
   "lastOpenFiles": [
-    "Pasted image 20250209202515.png",
     "Ruleset.md",
-    "Notes/Adventure Notebook.md",
     "Frem.md",
+    "Notes/Adventure Notebook.md",
+    "Pasted image 20250209202515.png",
     "BoatControls.png",
     "Pasted image 20241005165411.png",
     "Wavesong Shopping List.md",
@@ -218,7 +219,6 @@
     "Notes",
     "Lore",
     "World/Midlandia",
-    "Campaign Characters",
-    "images/image6.png"
+    "Campaign Characters"
   ]
 }

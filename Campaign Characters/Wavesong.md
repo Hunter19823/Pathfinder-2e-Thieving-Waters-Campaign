@@ -52,3 +52,16 @@ tags:
   
 ## Notes
 - [[Campaign Characters/Wavesong]] is motivated by a desire to learn new healing techniques and help others, driven by curiosity and a deep-seated responsibility to their home.
+
+
+## Q/A
+- (To the player) What does your character want/need most from going on a grand adventure?
+	- Wavesong wants to learn new means of healing others. They want to explore what this world has to offer and find new ways to help others.
+- What is your character's theme? (Theme by definition of literary device)
+	- ~~Chaos~~ The American Dream (Pirate Edition)
+- (To the character) Who do you trust most from the party and why? 
+	- Ironically I trust echo the most for putting up my personality.
+- (To the character) What value does everyone in the party bring to you?
+	- Echo provides a great deal of utility, spice, and entertainment in the party.
+	- Azami provides a great deal of intrigue. Where they came from, their culture, and their fighting style seems quite unique.
+		- Faro is a literally anomaly. They are a specter that defies most physical means. 

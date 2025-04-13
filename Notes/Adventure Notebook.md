@@ -423,3 +423,114 @@ We narrowly manage to escape to the boat and escape the Water Dragon.
 
 Level Up to Level 3!
 ## End of Session 7
+
+# START OF SESSION 8 (4/12/2025)
+
+The party pierces a veil of vines, escaping the Water Dragon on their boat.
+
+Faro has finally escaped the island.
+
+Wavesong sees grey clouds in the distance.
+Echo doesn't smell rain.
+Azami sees the trees of the horizon.
+
+A green glowing helix spiral forms in front of the party that splits the water apart.
+
+We anchored as the water tears around us.
+
+Out of the water emerges a galleon ship that is dredged in water covered in damage.
+ITS A GHOST SHIP.
+
+The Ghost Ship extends a giant board that hooks into our boat.
+
+Faro rushed to jump on the plank.
+
+Followed by Azami, Wavesong, and then Echo.
+
+Faro notices glowing chests, and immediately rushes over to touch it.
+
+Wavesong tells him to ask for permission before stealing.
+
+A disembodied voice tells them "that's not how pirates do things!".
+
+Wavesong says, "Well now you have permission!".
+
+Echo identifies this ship as Captain Black Beard's ship.
+
+Suddenly a Pirate appears before us on the stairs.
+
+The Black Beard Pirate appears before us.
+
+Black Beard will triple our pay if we can find the other pearls.
+
+There are a total of 7 pearls scattered among the islands.
+
+One of them was on Comvas. 
+
+One of them may be in Midlandia. Not sure where to find this one.
+
+One of them was somewhere in the lighthouse.
+
+The three chests are our level up rewards.
+
+## Chest (Lvl 1)
+
+Currency ~~40 gold pieces~~ 
+Permanent Items 
+- Level 1 Everburning Torch - Wavesong 
+- Level 1 Ring of Discretion - Echo 
+- Level 2 Weapon Potency Rune(+1) - Faro 
+- Level 2 Wondrous Figurine (Onyx Dog) - Azami 
+Consumable Items 
+- Level 1 Nectar of Purification - wavesong 
+- Level 1 Theatrical Mutagen (Lesser) - Azami 
+- Level 1 Addiction Suppressant (Lesser) - Faro 
+- Level 1 Alchemist's Fire (Lesser) - Echo 
+- Level 2 Jade Cat - Echo 
+- Level 2 Yellow Musk Vial - Azami
+## Chest (Lvl 2)
+
+Currency ~~70 gold pieces~~ 
+Permanent Items 
+- Level 2 Weapon Potency Rune(+1) - Azami 
+- Level 2 Glamorous Buckler - Azami
+- Level 3 Menacing Rune - Faro 
+- Level 3 Bracers of Missile Deflection - Echo 
+Consumable Items 
+- Level 1 Elemental Ammunition (Lesser) - Wavesong 
+- Level 1 Choker-Arm Mutagen (Lesser) - Azami 
+- Level 2 Jade Cat - Azami Level 2 Cat's Eye Elixir - Wavesong 
+- Level 3 Alchemist's Fire (Moderate) - Wavesong 
+- Level 3 Bestial Mutagen (Moderate) - Echo
+
+
+## Chest (Lvl 3)
+
+Currency ~~120 gold pieces~~ 
+Permanent Items 
+- Level 3 Menacing Rune - Wavesong 
+- Level 3 Compass (Lensatic) - Faro 
+- Level 4 Striking Rune - Faro 
+- Level 4 Ghost Touch Rune - Azami 
+
+Consumable Items
+- Level 2 Jade Cat - Wavesong 
+- Level 2 Cooperative Waffles - Wavesong 
+- Level 3 Beacon Shot - Echo 
+- Level 3 Camouflage Dye (Lesser) - Echo 
+- Level 4 Sinew-Shock Serum (Moderate) - Wavesong 
+- Level 4 Stone Fist Elixir - Faro
+
+Black Beard wants to collect all 7 of the pearls to make a gate that will protect the realms.
+In exchange for finding the pearls we will receive pirate powers and special weapons.
+
+Black Beard shook our hands to form a Pirate's Pact which we were able to will a curse away.
+
+After returning to the ship, I identify the magic within me.
+It is a contract pact, a form of curse, that was put on the entire party.
+We managed to reach the boat safely.
+
+We sail back to the coast of the Rainforest, and we see the Alarm that an intruder is coming.
+We setup camp along the coast and pulled our boat up onto the shore.
+
+## End of Session 8

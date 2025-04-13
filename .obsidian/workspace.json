@@ -18,23 +18,24 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Adventure Notebook"
             }
           },
           {
-            "id": "6ebd50a896bc4f3c",
+            "id": "295690e9857146a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Wavesong Shopping List.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Images/job_offer_in_a_bottle.png"
+              },
+              "icon": "lucide-image",
+              "title": "job_offer_in_a_bottle"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,8 +54,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -69,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -77,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -101,8 +109,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -111,8 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wavesong Shopping List.md"
-              }
+                "file": "Notes/Adventure Notebook.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Adventure Notebook"
             }
           },
           {
@@ -121,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wavesong Shopping List.md",
+                "file": "Notes/Adventure Notebook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +146,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Adventure Notebook"
             }
           },
           {
@@ -138,10 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wavesong Shopping List.md",
+                "file": "Notes/Adventure Notebook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Adventure Notebook"
             }
           },
           {
@@ -150,8 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wavesong Shopping List.md"
-              }
+                "file": "Notes/Adventure Notebook.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Adventure Notebook"
             }
           }
         ],
@@ -173,48 +199,49 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6ebd50a896bc4f3c",
+  "active": "d4649e61769a964d",
   "lastOpenFiles": [
+    "Images/world_map_drawing.png",
+    "Images/B7UPAs40Sk.png",
+    "Images/job_offer_in_a_bottle.png",
+    "Images/faro_encounter.png",
+    "Images/faro.png",
+    "Images/echo.png",
+    "Images/chart_of_spices.png",
+    "Images/ancient_star_symbols.png",
+    "Images/azami.png",
+    "Images/wavesong_intro.png",
+    "Lore/Fruit Leshy Powers.md",
+    "Lore/Captain Kid.md",
+    "Lore/Wavesong Intro.md",
+    "Campaign Characters/Wavesong.md",
+    "Notes/Adventure Notebook.md",
+    "Wavesong Shopping List.md",
     "Ruleset.md",
     "Frem.md",
-    "Notes/Adventure Notebook.md",
     "Pasted image 20250209202515.png",
-    "BoatControls.png",
-    "Pasted image 20241005165411.png",
-    "Wavesong Shopping List.md",
-    "Images/ancient_star_symbols.png",
-    "Images/chart_of_spices.png",
-    "Images/job_offer_in_a_bottle.png",
     "Campaign Characters/Faro.md",
-    "Campaign Characters/Wavesong.md",
-    "Images/faro.png",
     "Campaign Characters/Echo.md",
     "Campaign Characters/Azami.md",
-    "Images/faro_encounter.png",
     "Factions/Infury People.md",
     "HTML import/CampaignNotebook.md",
     "World/Midlandia/Pelican Bay.md",
     "Sessions/Session 2.md",
     "Sessions/Session 1.md",
     "World/World.md",
-    "Lore/Wavesong Intro.md",
     "World/Midlandia/Midlandia.md",
     "World/Midlandia/Vedmare.md",
     "Lore/Lake Superior.md",
     "Lore/Misc.md",
     "Lore/Shilonia.md",
     "Lore/Pelican Bay.md",
-    "Lore/Captain Kid.md",
     "World/Aepiero Isles.md",
     "Campaign Overview.md",
-    "template/Town.md",
     "Sessions",
     "Quests",
     "Factions",
-    "Images/world_map_drawing.png",
     "template",
     "World",
-    "Images/azami.png",
     "Images",
     "Notes",
     "Lore",

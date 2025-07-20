@@ -24,15 +24,17 @@
             }
           },
           {
-            "id": "295690e9857146a6",
+            "id": "13cba2ccc73bfea9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/job_offer_in_a_bottle.png"
+                "file": "Ruleset.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "job_offer_in_a_bottle"
+              "icon": "lucide-file",
+              "title": "Ruleset"
             }
           }
         ]
@@ -199,11 +201,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d4649e61769a964d",
+  "active": "ff42a698a61e8939",
   "lastOpenFiles": [
+    "Ruleset.md",
+    "Notes/Adventure Notebook.md",
+    "Images/job_offer_in_a_bottle.png",
     "Images/world_map_drawing.png",
     "Images/B7UPAs40Sk.png",
-    "Images/job_offer_in_a_bottle.png",
     "Images/faro_encounter.png",
     "Images/faro.png",
     "Images/echo.png",
@@ -215,11 +219,8 @@
     "Lore/Captain Kid.md",
     "Lore/Wavesong Intro.md",
     "Campaign Characters/Wavesong.md",
-    "Notes/Adventure Notebook.md",
     "Wavesong Shopping List.md",
-    "Ruleset.md",
     "Frem.md",
-    "Pasted image 20250209202515.png",
     "Campaign Characters/Faro.md",
     "Campaign Characters/Echo.md",
     "Campaign Characters/Azami.md",

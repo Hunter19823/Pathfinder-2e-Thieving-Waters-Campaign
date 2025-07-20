@@ -524,13 +524,35 @@ Consumable Items
 Black Beard wants to collect all 7 of the pearls to make a gate that will protect the realms.
 In exchange for finding the pearls we will receive pirate powers and special weapons.
 
-Black Beard shook our hands to form a Pirate's Pact which we were able to will a curse away.
+Black Beard shook our hands to form a Pirate's Pact which we were able to will a curse away. (There were tentacles that came from inside our body).
 
 After returning to the ship, I identify the magic within me.
 It is a contract pact, a form of curse, that was put on the entire party.
 We managed to reach the boat safely.
 
-We sail back to the coast of the Rainforest, and we see the Alarm that an intruder is coming.
+We sail back to the coast of the Rainforest at Azami's Homeland, and we see the Alarm that an intruder is coming.
 We setup camp along the coast and pulled our boat up onto the shore.
 
 ## End of Session 8
+
+# START OF SESSION 9 (7/19/2025)
+
+We woke up at the camp. As we plan the day.
+As we are talking about our plans, we see a Leaf Leshy trip in a bush nearby.
+
+A gaggle of Leaf Leshy are trying to fight us.
+
+Wavesong used Alchemist's Fire (Medium).
+
+The Leaf Leshys' were trying to hold Azami for Ransom.
+We meet Treeg (penny's character) who is there to bring Azami back to her father. 5k gold coin reward if returned and captives dead.
+
+The party decides to go back to the boat and prepare to move towards the village (which is under attack by leaf chasers).
+
+Wavesong finds some loose change on a dead chipmunk sized Monkey. (60 gold coins).
+
+We fight quite a handful of monkeys and mango vipers sailing through the river.
+
+We reach the final section of the river, and our boat capsizes.
+
+## End of Session 9

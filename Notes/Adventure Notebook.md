@@ -1,6 +1,7 @@
-# START OF SESSION 1 (6/29/24)
+# START OF SESSION 1 (6/29/24) (Day 1-Day 2)
 
 ## Chilling at home
+(Day 1)
 
 Bottle with Note with money, two licenses.
 
@@ -40,6 +41,7 @@ Goblin throwing slurs at [[Echo]].
 [[Campaign Characters/Wavesong]] hired [[Echo]] for only 20 Gold.
 
 ## To the rainforest
+(Day 2)
 Set off from Scribe Ben through the rainforest.
 
 ## Fucking up some Vinelashers.
@@ -65,9 +67,9 @@ We left off at a fork in the path.
 
 HP 10:
 
-END OF SESSION 1
+## END OF SESSION 1
 
-# START OF SESSION 2 (7/6/24)
+# START OF SESSION 2 (7/6/24) (Day 2)
 
 I start healing [[Echo]].
 I asked [[Azami]] if they were different from the trees.
@@ -78,7 +80,7 @@ We climbed up the side with my climbing bar.
 We clear the vine wall.
 
 ## Come across a Ghost Town ([[World/Midlandia/Pelican Bay]])
-Now it is 8AM.
+Now it is 8AM on Day 2.
 We are shopping.
 I have one remaining spell slot.
 
@@ -95,20 +97,21 @@ Trip will take 2 hours by raft.
 
 ## Preparing to go across the water
 
-End at 10AM
+End at 10PM on Day 2.
 1 spell focus remaining
 ## END OF SESSION 2
 
-# START OF SESSION 3 (7/27/24)
+# START OF SESSION 3 (7/27/24) (Day 3)
 
 ## Setoff on a raft
+(Day 3)
 We are on the raft.
 We were able to successfully get the raft to the other side. 
 We tied the raft at two anchor points with rope.
 [[Echo]] takes a step onto the dock, and falls through the wood, straight into the water.
 The Island surrounded by boat-shredding geography.
 
-Time: 12 PM (Noon)
+Time: 12 PM (Noon) on Day 3.
 
 ## Infront of Comvas Lighthouse
 We have now reached [[Comvas Lighthouse]]. (Home to our pearly treasure).
@@ -147,7 +150,7 @@ We go up stairs.
 
 [[Echo]] opens the door.
 
-Time: 1 PM (Noon)
+Time: 1 PM (Noon) Day 3
 ## Encountering [[Faro]]
 [[Faro]] stands before us with a trident wearing pirate outfit.
 
@@ -167,9 +170,9 @@ Campfire conversation starts.
 (Short rest, Party Full Restore)
 ## END OF SESSION 3
 
-# START OF SESSION 4 (8/10/24)
+# START OF SESSION 4 (8/10/24) (Day 3)
 
-Time: 6PM (Nighttime)
+Time: 6PM (Nighttime) on Day 3
 
 We tried to bring [[Faro]] to the ghostly perimeter but he was unable to come with us.
 
@@ -225,7 +228,7 @@ Only [[Wavesong]] and [[Faro]] survived the encounter.
 We Stabilize [[Azami]] and [[Echo]].
 ### END OF SESSION 4
 
-## Reading during the night:
+## Reading during the night: (Day 3)
 During the downtime [[Wavesong]] skims the books in the room.
 
 ### The Herbal Alchemist's handbook 
@@ -296,8 +299,8 @@ A Spellbook used for teaching young elementals simple cantrips and spells that a
 ### The Grimoire of Undine 
 A very old and tattered grimoire. The title is in Common, but the text on the inside is all in Aquan.
 
-# START OF SESSION 5 (8/24/24)
-
+# START OF SESSION 5 (8/24/24) (Day 4)
+7 AM on Day 4
 Session starts at 7 AM where we review the reading over the night. 
 
 We solve the illusionary hex in the room.
@@ -317,9 +320,9 @@ We noticed a cracked snail shell on the dock.
 [[Faro]] rushes over to hug the snail shell and hugs him. It's his old pet snail Garry.
 [[Faro]] now has a ghost snail on his shoulder named Garry. (Purely cosmetic)
 
-## End of Session 5
+## END OF SESSION 5
 
-# START OF SESSION 6 (10/5/2024)
+# START OF SESSION 6 (10/5/2024) (Day 4)
 
 We are on the boat, there are three paths.
 Still water, no wind. We must paddle to move in the water.
@@ -395,8 +398,8 @@ We managed to talk her down.
 [[Nanna Nutbread]] knows [[Farro]]'s Mom.
 
 The Hag locks us in the closet with her experimental yeast ooze.
-## End of Session 6
-# START OF SESSION 7 (2/9/2025)
+## END OF SESSION 6
+# START OF SESSION 7 (2/9/2025) (Day 4)
 
 The pantry is lined with various ingredients of different types.
 
@@ -422,13 +425,15 @@ Faro grabs a second Nana's Nut Bread as he tries to escape.
 We narrowly manage to escape to the boat and escape the Water Dragon.
 
 Level Up to Level 3!
-## End of Session 7
+## END OF SESSION 7
 
-# START OF SESSION 8 (4/12/2025)
+# START OF SESSION 8 (4/12/2025) (Day 4 - Day 5)
 
 The party pierces a veil of vines, escaping the Water Dragon on their boat.
 
 Faro has finally escaped the island.
+
+Time: 9PM on Day 4
 
 Wavesong sees grey clouds in the distance.
 Echo doesn't smell rain.
@@ -533,9 +538,13 @@ We managed to reach the boat safely.
 We sail back to the coast of the Rainforest at Azami's Homeland, and we see the Alarm that an intruder is coming.
 We setup camp along the coast and pulled our boat up onto the shore.
 
-## End of Session 8
+Time: 10 AM Day 5
 
-# START OF SESSION 9 (7/19/2025)
+## END OF SESSION 8
+
+# START OF SESSION 9 (7/19/2025) (Day 5)
+
+Time: 2PM Day 5
 
 We woke up at the camp. As we plan the day.
 As we are talking about our plans, we see a Leaf Leshy trip in a bush nearby.
@@ -555,4 +564,170 @@ We fight quite a handful of monkeys and mango vipers sailing through the river.
 
 We reach the final section of the river, and our boat capsizes.
 
-## End of Session 9
+Our boat got caught on the ruins of an ancient structure.
+
+Time: 8 PM on Day 5
+
+We start a campfire to rest by the ancient ruins.
+
+## END OF SESSION 9
+
+# Start of Session 10 (8/23/2025) (Day 6)
+
+Lore.
+Lots and lots of Lore.
+
+Treeg prepped us for explaining our case to the village and how we did not kidnap Azami. 
+
+## END OF SESSION 10
+
+# Start of Session 11 (9/6/2025) (Day 6)
+
+Time: 7 AM on Day 6
+
+We talked through the morning, and now it is now the afternoon of Day 6 of our adventure.
+Azami has also been gone for 5 days now.
+
+Treeg saw something and went to investigate.
+
+When we wake up, the amber low of the forest is high.
+The magic of the forest seems to be high. (Something unnatural could be going on).
+
+The water that we traveled through had an acidic effect on Treeg.
+
+After talking with Azami and Treeg, we know that the Leaf Chasers are a recent threat. They have been growing in number. 
+When a Leshi passes, the forest does not feel this weird.
+When a Leshi is eaten by the Leaf Chaser, the forest does not react this way.
+Only after Azami has left, did these changes start to occur in the forest.
+Treeg seems familiar with the issue.
+Both Treeg and Azami are able to "read the leaves".
+Both Treeg and Azami hazily remembered someone named Jerry Doe who ran the General Store.
+Nobody remembers his name, but they know that he was eaten by the leaf chasers.
+(Leaf Chasers erase the Leshis)
+
+We see orange smoke in the distant, and move to investigate.
+
+Crushed Fruit, Scorched Bark, and Magical carnage are all around us. 
+
+There are Leaf Chasers with pulsing amber veins and fungal tumors trying to enter into the rainforest. 
+
+After beating the leaf chasers, a larger leaf chaser comes from the forest.
+This one is massive, covered in fungal infections.
+Wavesong rushes over to a fallen Leshi, adorned in high armor, and brings that mother fucker back from the edge of death.
+
+Wavesong drops a signal whistle next to the fallen elder so that they may call for help if needed.
+
+While at the town, we can buy anything that is Level 3 or lower, except for anything not available in a rainforest. No magic items, no runes, only basic items.
+
+Time: 12 PM Day 6
+## End of Session 11
+
+We enter into the villager to go shopping.
+
+Time: 1 PM Day 6
+
+- Jerry has been erased from the memory of the Pomonan village.
+	- He died by the leaf chaser, causing the memory to be erased.
+- Pomonan babies are grown out of the ground.
+- Treeg was adopted by higher ranker officer.
+- Echo has tattoos.
+- Leafchasers are not native to the forest, they are a new problem.
+- Leaf chasers are infected by something
+- The water is being affected by something
+- Azami's brother Bowbasa was the one Wavesong saved in battle. He is the lieutenant warrier.
+- Bowbasa was the one who committed the treason of casting "call of the ancestors" using Azami's Grandfather's memory.
+	- Nobody can remember him now
+- Alder died during the fight, but Bowbasa used the ancestor ritual, to ward off the leaf chasers, and restored Alder back to life. He is still on the edge of life.
+- Elders live up high
+- The commoners live down below
+- Shops are on the ground
+
+
+# START OF SESSION 12 (2/1/2026) (Day 6)
+
+Time: 1 PM Day 6
+
+We are walking to the medic tent with Alder limping on Bowbasa's shoulder.
+
+Large leaf tent. Humid and warm, column of lite in the center. Light Focused on a pod. Bowbasa is placed into the furrow. 
+
+"Another chaser attack." Trying to keep the battle quiet. Bannana Bell is the nurse. "We can't treat the fallen." The nurses are trying to understand what the nurses are saying. An older nurse is taking Alder's temperature. "We have to finish triage. Just because he is your future father and law..." He then replied, "I order you to triage them." Bowbasa is betrothed to Bannana Bell the nurse. 
+
+Nurse Bannana Bell pushes the withered Alder into the doorway with hanging bannana leaves.
+
+"Wipe his record clean. Put this as an after battle checkup."
+
+We are now waiting in the reception. 
+
+Wavesong gives Azami their 60 gold back.
+
+Bowbasa brings us back. It is painfully bright for those who are not a leshy.
+
+Treeg is told "family only" and was not allowed to follow. 
+
+Wavesong told the receptionist to pass a note to Azami that we can meet on the south side in front of the town center.
+
+We are being led to the fertilizer shop that sells the best fertilizer in town.
+We sit down.
+
+Leshy people eat mulch and fertilizer with a fork-like pitchfork.
+Treeg bought one to go.
+Echo ate some Crog (frog - cow) milk which smells like chicken, but tastes like milk.
+
+Wavesong wants to go to the library. 
+
+Wavesong buys a scholarly journal from the librarian about the panonan village. 
+It is the librarian's personal notes about the village.
+
+Treeg asked the librarian to look over our group. 
+
+We get done buying things from the market.
+Wavesong Buys:
+- Tracking Tag x3
+- Writing Set + 1 extra in and paper
+- Rope x3
+- Basic Face Mask x2 (Leaf Thatch mask)
+	- Makes people think you are a leaf leshy
+- Earplugs x 3
+- Doll x 2
+	- Leef Leshy Doll, with mustache and tie. Has buck teeth.
+	- Toymaker energy
+- Signaling Snare x 2
+- Marking Snare x 2
+- Dust Pods x 2
+- Caltrop Snare x 2
+- Hampering Snare x2
+- Mug x2
+
+Whole party collects in the center of the trade market.
+
+We walk over to the live stock pen to pet the cow frogs.
+Azami's dad gave information. Azami has been given a journey, to save the tree. 
+
+We need to go to the **Temple of lost souls** to save the tree. There are **at least 7 runes** in the temple of souls, which is needed for the **seeding ritual spell**, they can move her.
+Seeding ritual turns the tree back into a seed. The tree is dying. The tree was planted where it is, and the belief is that the tree is somewhere it wasn't planted originally.
+At least 3 banana Leshys for the seeding ritual.
+Temple of lost souls is two days walk from the tree.
+Azami said that they need to be back in seven days.
+The elders are waiting seven days to talk about our situation.
+The three sages planted the seed here 100 years ago.
+Treeg was gas lit into thinking the forest was fine, when in reality it was hurting.
+
+We go back to the tree hospital. We are told to leave fast.
+We make it to the gate, Echo critically succeeds at deceiving the guards claiming we are collecting a flower.
+
+It is now 8 PM.
+
+![[world_map_drawing.png]]
+
+We were walking for two hours and then the third hour we got attacked by four bandits.
+
+It is now 11 PM and we are in battle.
+We killed all of them.
+Faro broke their trident and Wavesong repaired it for 20 hp.
+
+We make campfire for long rest after reaching our destination for camping.
+
+It is now 12 PM.
+
+## END OF SESSION 12+
